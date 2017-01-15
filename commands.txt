@@ -14,6 +14,7 @@ F6	??? (Send to Setup)	ep
 F7	Reverse
 	02 Y
 F9	Restart			y
+FB	Center
 
 01-F0	Burning Time
 
